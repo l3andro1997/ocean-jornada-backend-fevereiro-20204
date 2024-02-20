@@ -1,0 +1,13 @@
+{
+  "name": "ocean-jornada-backend-fevereiro-20204",
+  "version": "1.0.0",
+  "description": "projeto com nodeJS e express feito para jornada backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leandro",
+  "license": "MIT"
+}
+
+
